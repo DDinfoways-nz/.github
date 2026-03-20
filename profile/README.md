@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/DDinfoways-nz/.github/main/developer-logo.png" alt="DDinfoways Business Systems" width="320">
 </p>
 
-<h1 align="center">🚀 DDinfoways NZ</h1>
+<h1 align="center"> DDinfoways NZ</h1>
 
 <h3 align="center">Powerful Business Solutions for Retail & Hospitality</h3>
 
